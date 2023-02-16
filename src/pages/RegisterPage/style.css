@@ -1,0 +1,16 @@
+.register {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 650px;
+}
+
+.register__form {
+    display: flex;
+    flex-direction: column;
+    background-color: #00fcb1;
+    padding: 25px;
+    border-radius: 10px;
+    gap: 10px;
+    width: 240px;
+}
